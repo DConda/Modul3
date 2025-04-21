@@ -11,7 +11,7 @@ Sesuaikan variabel APP_URL di file .env dengan port server teman-teman (contoh: 
 Generate key dengan perintah php artisan key:generate
 
 Lakukan penyesuaian database pada .env 
-contoh: DB_CONNECTION=mysql DB_HOST=127.0.0.1 DB_PORT=7000 DB_DATABASE=dusklaravel DB_USERNAME=root DB_PASSWORD=
+contoh: DB_CONNECTION=mysql DB_HOST=127.0.0.1 DB_PORT=3308 DB_DATABASE=laravel DB_USERNAME=root DB_PASSWORD=
 
 Migrate database dengan perintah php artisan migrate
 
